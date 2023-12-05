@@ -18,5 +18,5 @@ main()
 	cout<<"Multiplication of Two Number is : "<<e;
 	cout<<endl;
 	cout<<"Division of Two Number is : "<<f;
-
+    cout<<endl;
 }
